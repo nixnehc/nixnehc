@@ -6,6 +6,5 @@
 
 <!-- 
 ![duoduo](https://chenxinhello.github.io/image/duoduo/DuoduoHead01.jpg) 
--->
-
 <img src="https://chenxinhello.github.io/image/duoduo/DuoduoHead01.jpg" alt="duoduo" width="400"/>
+-->
